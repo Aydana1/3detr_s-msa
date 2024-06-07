@@ -1,0 +1,159 @@
+Training Finished.
+====================Final Eval Numbers.
+mAP0.25, mAP0.50: 61.47, 41.87
+AR0.25, AR0.50: 75.03, 55.10
+-----
+IOU Thresh=0.25
+cabinet Average Precision: 47.64
+bed Average Precision: 80.36
+chair Average Precision: 88.62
+sofa Average Precision: 87.70
+table Average Precision: 64.42
+door Average Precision: 48.78
+window Average Precision: 37.78
+bookshelf Average Precision: 40.41
+picture Average Precision: 11.95
+counter Average Precision: 45.94
+desk Average Precision: 74.19
+curtain Average Precision: 53.81
+refrigerator Average Precision: 53.08
+showercurtrain Average Precision: 68.67
+toilet Average Precision: 99.94
+sink Average Precision: 66.63
+bathtub Average Precision: 91.18
+garbagebin Average Precision: 45.33
+cabinet Recall: 68.82
+bed Recall: 90.12
+chair Recall: 91.08
+sofa Recall: 95.88
+table Recall: 79.14
+door Recall: 60.60
+window Recall: 51.77
+bookshelf Recall: 63.64
+picture Recall: 16.67
+counter Recall: 78.85
+desk Recall: 90.55
+curtain Recall: 71.64
+refrigerator Recall: 75.44
+showercurtrain Recall: 85.71
+toilet Recall: 100.00
+sink Recall: 75.51
+bathtub Recall: 93.55
+garbagebin Recall: 61.51
+-----
+IOU Thresh=0.5
+cabinet Average Precision: 19.36
+bed Average Precision: 72.41
+chair Average Precision: 71.11
+sofa Average Precision: 59.71
+table Average Precision: 51.58
+door Average Precision: 26.80
+window Average Precision: 13.88
+bookshelf Average Precision: 33.36
+picture Average Precision: 4.04
+counter Average Precision: 6.65
+desk Average Precision: 47.80
+curtain Average Precision: 24.39
+refrigerator Average Precision: 46.70
+showercurtrain Average Precision: 51.74
+toilet Average Precision: 79.76
+sink Average Precision: 40.24
+bathtub Average Precision: 74.74
+garbagebin Average Precision: 29.34
+cabinet Recall: 38.71
+bed Recall: 75.31
+chair Recall: 76.83
+sofa Recall: 74.23
+table Recall: 66.00
+door Recall: 40.47
+window Recall: 22.34
+bookshelf Recall: 53.25
+picture Recall: 7.21
+counter Recall: 28.85
+desk Recall: 71.65
+curtain Recall: 44.78
+refrigerator Recall: 63.16
+showercurtrain Recall: 67.86
+toilet Recall: 84.48
+sink Recall: 51.02
+bathtub Recall: 80.65
+garbagebin Recall: 45.09
+====================Best Eval Numbers.
+mAP0.25, mAP0.50: 62.33, 41.62
+AR0.25, AR0.50: 76.73, 54.87
+-----
+IOU Thresh=0.25
+cabinet Average Precision: 51.24
+bed Average Precision: 79.80
+chair Average Precision: 88.22
+sofa Average Precision: 87.72
+table Average Precision: 64.67
+door Average Precision: 49.00
+window Average Precision: 40.87
+bookshelf Average Precision: 40.80
+picture Average Precision: 11.67
+counter Average Precision: 54.12
+desk Average Precision: 75.52
+curtain Average Precision: 49.86
+refrigerator Average Precision: 54.33
+showercurtrain Average Precision: 70.40
+toilet Average Precision: 99.97
+sink Average Precision: 69.66
+bathtub Average Precision: 88.01
+garbagebin Average Precision: 46.14
+cabinet Recall: 72.31
+bed Recall: 88.89
+chair Recall: 90.94
+sofa Recall: 96.91
+table Recall: 81.14
+door Recall: 62.53
+window Recall: 58.51
+bookshelf Recall: 67.53
+picture Recall: 18.92
+counter Recall: 82.69
+desk Recall: 90.55
+curtain Recall: 73.13
+refrigerator Recall: 75.44
+showercurtrain Recall: 85.71
+toilet Recall: 100.00
+sink Recall: 81.63
+bathtub Recall: 90.32
+garbagebin Recall: 63.96
+-----
+IOU Thresh=0.5
+cabinet Average Precision: 18.93
+bed Average Precision: 71.04
+chair Average Precision: 71.14
+sofa Average Precision: 59.50
+table Average Precision: 50.76
+door Average Precision: 27.48
+window Average Precision: 11.43
+bookshelf Average Precision: 32.72
+picture Average Precision: 4.70
+counter Average Precision: 13.59
+desk Average Precision: 46.14
+curtain Average Precision: 21.84
+refrigerator Average Precision: 47.30
+showercurtrain Average Precision: 34.56
+toilet Average Precision: 87.23
+sink Average Precision: 43.97
+bathtub Average Precision: 77.42
+garbagebin Average Precision: 29.46
+cabinet Recall: 38.17
+bed Recall: 75.31
+chair Recall: 76.97
+sofa Recall: 71.13
+table Recall: 67.14
+door Recall: 40.69
+window Recall: 22.70
+bookshelf Recall: 53.25
+picture Recall: 7.21
+counter Recall: 36.54
+desk Recall: 70.87
+curtain Recall: 40.30
+refrigerator Recall: 61.40
+showercurtrain Recall: 53.57
+toilet Recall: 91.38
+sink Recall: 58.16
+bathtub Recall: 77.42
+garbagebin Recall: 45.47
